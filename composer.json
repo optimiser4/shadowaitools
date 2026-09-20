@@ -24,5 +24,12 @@
         "ai governance",
         "data loss prevention",
         "ai blocklist"
-    ]
+    ],
+    "suggest": {
+        "websitecategorization/websitecategorizationapi": "Website Categorization API: classify any URL into IAB content categories",
+        "aitoolsblocklist/aitoolsblocklist": "AI Tools Blocklist: 20,000+ AI-tool domains in 18 categories, refreshed daily",
+        "webfilteringdatabase/webfilteringdatabase": "Web Filtering Database: 120M+ domains in 59 web filtering categories",
+        "urlcategorizationdatabase/urlcategorizationdatabase": "URL Categorization Database: 120M+ domains with IAB tier 1 and tier 2 categories",
+        "aiagentallowlist/aiagentallowlist": "AI Agent Allowlist: per-URL allow/deny verdicts for web-browsing AI agents"
+    }
 }
