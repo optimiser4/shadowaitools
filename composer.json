@@ -1,0 +1,28 @@
+{
+    "name": "shadowaitools/shadowaitools",
+    "description": "Shadow AI Tools: detect AI tool usage from DNS, proxy and firewall log exports, with per-user breakdown and vendor training verdicts",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "homepage": "https://www.shadowaitools.com",
+    "support": {
+        "source": "https://github.com/optimiser4/shadowaitools",
+        "docs": "https://www.shadowaitools.com"
+    },
+    "authors": [
+        {
+            "name": "Alpha Quantum",
+            "email": "info@alpha-quantum.com",
+            "homepage": "https://www.alpha-quantum.com"
+        }
+    ],
+    "keywords": [
+        "shadow ai",
+        "shadow ai detection",
+        "ai tools inventory",
+        "dns log analysis",
+        "ai governance",
+        "data loss prevention",
+        "ai blocklist"
+    ]
+}
